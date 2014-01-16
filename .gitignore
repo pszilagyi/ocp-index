@@ -6,3 +6,5 @@ config.*
 man
 ocp-index
 Makefile.config
+ocp-browser
+ocp-grep
